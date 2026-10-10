@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+models/vosk-model-*/
+.env
+browser_profile/
+STATUS.md
